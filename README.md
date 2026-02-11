@@ -1,2 +1,2 @@
 # simple-portfolio-website
-Hi, I'm Nisanth Saravanan, a Full Stack Developer skilled in Java and React. I build responsive, user-friendly web applications with strong backend logic and clean UI design. Passionate about coding, problem-solving, and continuous learning, I aim to develop scalable real-world applications.
+This is a simple portfolio website built using HTML and CSS. It showcases my profile, skills, projects, and contact information with a clean and responsive design. The website focuses on structured layout, modern styling, and user-friendly navigation to present my work professionally.
